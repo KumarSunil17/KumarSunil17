@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Smartters' Studio
+- 🔭 I’m currently working on Smartters' Software Pvt. Ltd
 - 🌱 I’m currently learning Unity
 - 👯 I’m looking to collaborate on Youtube
 - 🤔 I’m looking for help with Unity
